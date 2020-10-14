@@ -19,7 +19,7 @@ metadata:
   name: helloweb
   labels:
     app: hello
-    branch: master
+    branch: test
 spec:
   selector:
     matchLabels:
